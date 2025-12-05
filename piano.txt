@@ -1,0 +1,96 @@
+clocks - coldplay
+fur elise easy version - https://musescore.com/user/2816076/scores/5418894
+intersteller - 
+	easy: https://www.youtube.com/watch?v=Q-HjG5RxDIg
+	intermediate: https://www.youtube.com/watch?v=Kkd7grCASvw
+somewhere only we know: https://www.youtube.com/watch?v=BgxTNWHaIjg
+coldplay - viva la vida
+	atlantic notes: https://www.youtube.com/watch?v=0ewwWK9_-iE
+dont stop belivin - https://www.youtube.com/watch?v=zTgwUUdchcU
+
+skyfall - https://www.youtube.com/watch?v=3e_fP_7lL1w
+payphone - https://www.youtube.com/watch?v=JOEdF8rxlRM
+Giorno's Theme = https://www.youtube.com/watch?v=iM-yI6DneDE
+Ludovico Einaudi - Experience - https://www.youtube.com/watch?v=m18W58eF8nM
+Aria Math C418 (Hard) - https://www.youtube.com/watch?v=71vrPjJ6HO0
+Sweden C418 (Chords mostly) - https://www.youtube.com/watch?v=0HuBsQWt-cg
+Homage: https (Chords)://www.youtube.com/watch?v=0RhN0q4O9EA
+Notes:
+1   F#-A-C#-D                   Intro 2x
+                                {
+                                    C#-A-A
+                                    C#-A-A
+                                    C#-G#-G#
+                                    {C#,B,C#,D}-A-A
+                                } Pattern 2x
+17  F#C#-AE-C#Min-DMaj          {
+                                    A-C#
+                                    A-C#
+                                    A-G#-C#
+                                    A-C#
+                                } Pattern 2x
+                                {
+                                    A-G#-F#
+                                    A-G#-F#
+                                    A-G#-F#
+                                    A-G#-F#
+                                } Pattern 2x
+33  F#-A-C#-D                   {
+                                    C#-B-A
+                                    C#-B-A
+                                    C#-B-A
+                                    C#-B-A
+                                } Pattern 1x
+                                {
+                                    A-G#-F#
+                                    A-G#-F#
+                                    A-G#-F#
+                                    A-G#-F#
+                                } Pattern 1x
+41  F#-A-C#-D                   {
+                                    C#-A-A
+                                    C#-A-A
+                                    D -A-A
+                                    C#-A-A    
+                                } x2
+                                {
+                                    C#-G#-G#
+                                    C#-G#-G#
+                                    D -G#-G#
+                                    C#-G#-G#
+                                } x1
+                                {                      {                     {                       
+                                    C#-F#-F#               C#-F#-F#              C#-F#-F#            
+                                    B -F#-F#  --------->   B-A-A    --------->   B -F#-F#            
+                                    C#-F#-F#               C#-F#-F#              C#-F#-F#            
+                                    D -F#-F#               D -F#-F#              D -F#-F#            
+                                } x1                   } x1                  } x2                    
+                                F#MinScaleRev          F#MinScaleRev                                 
+59
+F#-A-C#-D
+F#C#-AE-C#Min-DMaj
+{
+    A-C#
+    A-G#-C#
+    A-G#-C#
+    A-C#-A-D
+} x2
+65
+F#-A-C#-D
+F#C#-AE-C#Min-DMaj
+{
+    A-C#
+    A-C#
+    A-G#-C#
+    A-C#
+} x2
+
+
+F#-A-C#-D
+{
+    A -F#-C#
+    A -F#-C#
+    G#-F#-C#
+    A -F#-C#
+}
+
